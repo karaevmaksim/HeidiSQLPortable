@@ -1,1 +1,1 @@
-CustomSnippetsDirectory<|||>1<|||>Data\settings\Snippets
+CustomSnippetsDirectory<|||>1<|||>Data\Snippets
